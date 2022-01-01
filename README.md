@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Debopam
 - 👀 I’m interested in programming, software development and algorithms
-- 🌱 I’m currently learning the MERN stack and the advanced features of React.
+- 🌱 I’m currently studying in VIT, learning to be a more rounded developer.
 - 📫 How to reach me , email = debopam.exe@gmail.com.
