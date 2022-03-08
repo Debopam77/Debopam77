@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Debopam
 - 👀 I’m interested in programming, software development and algorithms
-- 🌱 I’m currently studying in VIT, learning to be a more rounded developer.
+- 🌱 I’m currently studying in VIT, learning to be a more well rounded developer.
 - 📫 How to reach me , email = debopam.exe@gmail.com.
